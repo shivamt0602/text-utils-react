@@ -37,7 +37,8 @@
   }
 } 
 
-body{
-  background-color: black;
-  color: white;
-}
+/* html,body{
+  margin-top: 10px;
+  background-color: white;
+  color: black;
+} */
